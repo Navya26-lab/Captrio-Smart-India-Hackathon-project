@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+speechrecognition
+deep-translator
+moviepy
+yt-dlp
+websockets
+nltk
+requests
+mediapipe
+opencv-python
+numpy
+pydantic
